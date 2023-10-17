@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-05T07:46:29Z" name="Suite" finished-at="2023-10-05T07:46:29Z" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2023-10-05T07:46:29Z" name="Test" finished-at="2023-10-05T07:46:29Z" duration-ms="86">
+      <class name="project.One.TestNG">
+        <test-method signature="case3()[pri:0, instance:project.One.TestNG@36cda2c2]" started-at="2023-10-05T07:46:29Z" name="case3" finished-at="2023-10-05T07:46:29Z" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case3 -->
+        <test-method signature="case5()[pri:0, instance:project.One.TestNG@36cda2c2]" started-at="2023-10-05T07:46:29Z" name="case5" finished-at="2023-10-05T07:46:29Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case5 -->
+        <test-method signature="case2()[pri:0, instance:project.One.TestNG@36cda2c2]" started-at="2023-10-05T07:46:29Z" name="case2" finished-at="2023-10-05T07:46:29Z" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case2 -->
+        <test-method signature="case4()[pri:0, instance:project.One.TestNG@36cda2c2]" started-at="2023-10-05T07:46:29Z" name="case4" finished-at="2023-10-05T07:46:29Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case4 -->
+        <test-method signature="case1()[pri:0, instance:project.One.TestNG@36cda2c2]" started-at="2023-10-05T07:46:29Z" name="case1" finished-at="2023-10-05T07:46:29Z" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1 -->
+        <test-method signature="case6()[pri:0, instance:project.One.TestNG@36cda2c2]" started-at="2023-10-05T07:46:29Z" name="case6" finished-at="2023-10-05T07:46:29Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case6 -->
+        <test-method signature="case7()[pri:0, instance:project.One.TestNG@36cda2c2]" started-at="2023-10-05T07:46:29Z" name="case7" finished-at="2023-10-05T07:46:29Z" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case7 -->
+      </class> <!-- project.One.TestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
